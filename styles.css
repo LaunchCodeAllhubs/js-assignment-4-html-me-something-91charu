@@ -1,1 +1,95 @@
 /* Write your CSS here! */
+
+
+header {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  background-color: #e5efab;
+  padding: 20px;
+  color: #100f0f;
+}
+
+header h1 {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  padding: 20px;
+  color: #0f0e0e;
+  text-align: center;
+  text-decoration: underline;
+  font-weight: bold;
+  margin: 0;
+}
+
+header h2 {
+  margin-top: 20px;
+  color: #285163;
+  text-decoration: underline;
+}
+
+main {
+  border: 20px;
+  padding: 20px;
+}
+
+.image1-style,
+.image2-style,
+.image3-style,
+.image4-style {
+  width: 800px;
+  height: 500px;
+  border: 2px solid #333;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin-bottom: 10px;
+}
+
+article {
+  margin-bottom: 20px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+article h2 {
+  margin: 0px;
+  color: #333;
+}
+
+article p {
+  color: #393838;
+}
+
+footer {
+  background-color: #625555;
+  padding: 0px;
+  color: #fff;
+  text-align: center;
+}
+
+footer p {
+  margin: 0;
+}
+
+footer a {
+  color: #f0bebe;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: aqua;
+  text-decoration: underline;
+}
+
+body {
+  margin: 8px;
+  display: block;
+}
+
+#mainHeading {
+  color:red;
+}
+
+.funParagraph {
+  color:green;
+}
