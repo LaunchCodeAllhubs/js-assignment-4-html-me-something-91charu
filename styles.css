@@ -1,16 +1,5 @@
 /* Write your CSS here! */
-body {
-  margin: 8px;
-  display: block;
-}
 
-#mainHeading {
-  color:#FF0000;
-}
-
-.funParagraph {
-  color:#008000;
-}
 
 header {
   margin-bottom: 20px;
@@ -92,3 +81,15 @@ footer a:hover {
   text-decoration: underline;
 }
 
+body {
+  margin: 8px;
+  display: block;
+}
+
+#mainHeading {
+  color:red;
+}
+
+.funParagraph {
+  color:green;
+}
